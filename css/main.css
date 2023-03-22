@@ -380,7 +380,7 @@ main {
     .menu-branding .portrait {
       background: url("../img/portrait_small.jpg");
       background-size: contain;
-      width: 250px;
+      width: 150px;
       height: 200px; }
   .projects {
     grid-template-columns: repeat(2, 1fr); }
